@@ -16,6 +16,7 @@ public class Work {
 
     LOGGER.info("Launching Application.");
 
+
   }
 
 }
